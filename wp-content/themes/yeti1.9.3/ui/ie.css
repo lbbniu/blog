@@ -1,0 +1,121 @@
+/*内容字色*/
+#main .panel .infobox .content .article {color: #779B39;}
+#main .panel .infobox .content .article:hover {color:#74B129;}
+
+/*投稿*/
+.add_post .term {padding: 2px 4px 0;}
+
+/*视频缩略图垂直居中*/
+/*#main .panel .videoplayer {*position: relative;}*/
+#main .panel .videoplayer .img_wrap {*position: absolute; *top: 50%;}
+#main .panel .videoplayer .img_wrap .tu {*position: relative; *top: -50%;}
+
+
+/*IE提示*/
+#fuckie {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 99999999;
+	background: url(ui/alpha45.png) repeat scroll 0 0 transparent;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+#fuckie .tips {
+	width: 819px;
+	height: 635px;
+	position: relative;
+	margin: 20px auto 0;
+	background: url(ui/ie/fuckie.png) no-repeat scroll 0 0 transparent;
+}
+#fuckie .tips .btn {
+	width: 57px;
+	height: 57px;
+	position: absolute;
+	top: 25px;
+	right: 26px;
+	cursor: pointer;
+}
+/*body * {
+	_display: none;
+}
+body .ie6 {
+	_display: block;
+	padding: 20px;
+	font-size: 18px;
+}
+body .ie6 * {font-size: 18px;}
+body .ie6 a {color: #F00;}
+body .ie6 .blue {color:#1FAAE0;}*/
+#ie6-warning {
+	background: url(ui/ie/warning.gif) no-repeat scroll 3px center #FFFFFFF;
+	position: absolute;
+	top: 0;
+	left: 0;
+	font-size: 12px;
+	color: #333;
+	width: 97%;
+	padding: 2px 15px 2px 23px;
+	text-align: left;
+}
+#ie6-warning a {
+	text-decoration: none;
+}
+
+/*图形美化*/
+#nav {
+	background: url(ui/ie/navbg.png) repeat-x scroll 0 0 transparent;
+	height: 55px;
+}
+#nav li:hover > a {
+	color: #FFF;
+	background: #74B129;
+}
+#nav .sub-menu {border:1px solid #74B129;top: 22px;}
+#nav li:hover .sub-menu {display: block;}
+
+#main .topbox a {
+	background: url(ui/ie/menu2.jpg) repeat-x scroll 0 0 transparent;
+	border: 1px solid #E9E9E9;
+	border-top: 1px solid #EEE;
+	border-bottom: 0 none;
+}
+#main .topbox a:hover,
+#main .topbox .current-menu-item a {
+	background-position: 0 -32px;
+}
+
+
+#main .topbox {
+	box-shadow: 0 1px #FFFFFF inset, 0 1px 10px rgba(0, 0, 0, 0.15);
+	border: 1px solid #ddd;
+	width: 818px\0;	/*IE8*/
+}
+#main .notice {box-shadow:0 1px 10px rgba(0, 0, 0, 0.05);}
+#main .notice,
+#main .post_nav,
+#main .panel {
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+}
+#main .panel {padding: 10px 19px 20px;}
+#pagination {
+	border: 1px solid #ddd;
+	width: 818px;
+	border-top: 0 none;
+	background: url(ui/ie/pagination.jpg) repeat-x scroll 0 0 transparent;
+}
+#links {width: 778px;border-left: 1px solid #ddd;border-right: 1px solid #ddd; }
+
+.ticker .shortcut .sub_menu {*bottom: 32px;} /*IE7快捷链接子菜单*/
+
+
+/*post*/
+#main .panel .infobar .databar .vote {
+	background: url(ui/ie/vote2.png) no-repeat scroll right 0 transparent;
+}
+#main .panel .infobar .databar .view {
+	*margin-top: 0px; /*IE7*/
+	background: url(ui/ie/vote2.png) no-repeat scroll right -20px transparent;
+}

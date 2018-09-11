@@ -1,0 +1,384 @@
+@charset "utf-8";
+/* CSS Document */
+body,p,div,ul,ol,li,dl,dt,dd,span,var,em,a,img,strong,table,td,tr,h2,h3,h4,h5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-family:微软雅黑;
+    margin:0;
+    padding:0;
+    font-size:12px;
+    }
+
+a,img{
+	border:none;
+}
+ul,ol{
+	list-style-type:none;
+}
+a{
+	text-decoration:none;
+}
+var,em{
+	font-style:normal;
+}
+.zywxapp_errors_container{
+    background: url(@@@ZYWXAPP_IMAGES@@@/PopUpWin.png) no-repeat;
+    height: 448px;
+    width: 546px;
+    overflow: auto;
+    z-index: 999;
+}
+.zywxapp_errors_container.s_container{
+    background: url(@@@ZYWXAPP_IMAGES@@@/winSmall.png) no-repeat;
+    height: 203px;
+    width: 610px;
+    overflow: auto;
+    position: relative;
+    margin: 0px auto;
+    z-index: 999;
+}
+.zywxapp_errors_container .errors{
+    margin: 20px 20px 12px 30px;
+    height: 345px;
+    width:496px;
+    overflow: auto;
+}
+.zywxapp_errors_container.s_container .errors{
+    height: 100px;
+    width:543px;
+    overflow: auto;
+    margin: 20px 20px 12px 41px;
+}
+.zywxapp_errors_container .zywxapp_error{
+    padding: 10px 10px 10px 30px;
+    background: url(@@@ZYWXAPP_IMAGES@@@/error_Icon.png) no-repeat left center;
+    border-bottom: 1px inset;
+    height: auto;
+    width: auto;
+    float: left;
+    position: static;
+    margin: 0px 0px;
+}
+.zywxapp_errors_container .zywxapp_error:last-child{
+    border-bottom: 0px none;
+}
+.zywxapp_errors_container .buttons{
+    text-align: right;
+    height: 45px;
+    margin: 0px 20px 0px 30px;
+}
+.zywxapp_errors_container .buttons a{
+    font-weight: bolder;
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+    display: inline-block;
+    margin: 5px;
+    height: 33px;
+    line-height: 33px;
+}
+#zywxapp_activation_container.no_js #zywxapp_js_disabled{
+    display: block;
+}
+#zywxapp_activation_container.no_js #zywxapp_js_enabled{
+    display: none;
+}
+#zywxapp_activation_container.js #zywxapp_js_disabled{
+    display: none;
+}
+#zywxapp_activation_container.js #zywxapp_js_enabled{
+    display: block;
+}
+.zywxapp_errors_container .retry_processing, #zywxapp_retry_compatibilities{
+    background: url(@@@ZYWXAPP_IMAGES@@@/RetryBTN.png) no-repeat left center;
+    width: 77px;
+}
+.zywxapp_errors_container .buttons .retry_processing{
+    color: #fff;
+}
+#zywxapp_close_compatibilities{
+    background: url(@@@ZYWXAPP_IMAGES@@@/CancelBTN.png) no-repeat left center;
+    width: 86px;
+}
+#zywxapp_icon{
+	background:url(@@@ZYWXAPP_IMAGES@@@/appcan.png) no-repeat 5px 0;
+	height: 40px;
+	width:40px;
+}
+.zywxapp_content{
+	margin-top:5px;
+}
+.zywxapp_submit{
+    width:100px;
+    height:20px;
+}
+.zywxapp_line{
+    padding-left:20px;
+    line-height:25px;
+}
+#zywxapp_frame{
+    overflow: hidden; 
+    width:100%; 
+    height: 1450px; 
+    border:0px none;
+}
+.tip{
+	color:#696969;
+	font-size: 12px;
+}
+#zywxapp_clent h3{
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 1;
+    margin: 0;
+    padding: 7px 10px;
+}
+.micorbo_name li {
+    margin-bottom: 20px;
+}
+.micor_bo{
+    font-size:14px;
+    margin-bottom:15px;
+    margin-top:-15px;
+    clear: both;
+}
+.set{padding:30px 0 30px 10px;}
+#binding_weibo th.first {
+    white-space: nowrap;
+    width: 100px;
+}
+.style_select{
+    float: left;
+    width: 300px;
+    padding-left:20px;
+}
+.zywxapp_phone_bg {
+    background: url("@@@ZYWXAPP_IMAGES@@@/phone_bg.jpg") no-repeat scroll 0 0 transparent;
+    float: left;
+    height: 618px;
+    width: 375px;
+}
+.zywxapp_phone_position {
+    padding: 110px 0 0 57px
+}
+.zywxapp_phone_wap{
+    width:257px; 
+    height:383px;
+}
+#zywxapp_phone_top{
+	background:url(@@@ZYWXAPP_IMAGES@@@/phone_top.png) repeat-x;
+	height:16px;
+    line-height:16px;
+    text-align:center;
+}
+#zywxapp_phone_title{
+    height:32px;
+    line-height:32px;
+    text-align:center;
+    background-color:#1C95DC;
+    color:#fff;
+}
+#zywxapp_phone_feature{
+	background:url(@@@ZYWXAPP_IMAGES@@@/phone_feature.png) repeat-x;
+    height:157px;
+    line-height:157px;
+    text-align:center;
+}
+.zywxapp_phone_feature img {
+    height: 157px;
+    width: 257px;
+}
+#zywxapp_phone_content{
+	background:url(@@@ZYWXAPP_IMAGES@@@/phone_content.png) repeat-x;
+    height:178px;
+    line-height:178px;
+    text-align:center;
+}
+.zywxapp_logo {
+    padding: 25px 0 0 10px;
+}
+.zywxapp_upload_img {
+    float: left;
+    margin: 15px 0 0 10px;
+    position:absolute;
+    width:65%;
+    left:400px;
+}
+.zywxapp_logo_item {
+    border: 1px solid #CCCCCC;
+    float: left;
+    height: 130px;
+    margin: 0 10px 10px 0;
+    position: relative;
+    width: 200px;
+}
+.zywxapp_upload_img img {
+    height: 130px;
+    width: 200px;
+}
+.zywxapp_delete_image_icon {
+    background: url("@@@ZYWXAPP_IMAGES@@@/image_delete.gif") no-repeat scroll 0 0 transparent;
+    height: 13px;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    width: 13px;
+}
+.zywxapp_upload_img p {
+    line-height: 18px;
+    margin: 20px 0;
+}
+.zywxapp_nav {
+    border-bottom: 1px solid #CCCCCC;
+    height: 30px;
+}
+.zywxapp_nav li {
+    float: left;
+    line-height: 28px;
+    margin-right: 10px;
+}
+.zywxapp_nav li a.stop {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-bottom: 1px solid #FFFFFF;
+    font-weight: bold;
+    height: 29px;
+    line-height: 29px;
+    margin-top: 0;
+}
+.zywxapp_nav li a.zhuce {
+    width: 108px;
+}
+.zywxapp_nav li a {
+    -moz-border-bottom-colors: none;
+    -moz-border-image: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: none repeat scroll 0 0 #E9E9E9;
+    border-color: #CCCCCC #CCCCCC -moz-use-text-color;
+    border-style: solid solid none;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-width: 1px 1px medium;
+    color: #000000;
+    display: block;
+    height: 26px;
+    line-height: 26px;
+    margin-top: 3px;
+    text-align: center;
+    width: 132px;
+}
+.zywxapp_platform_content {
+    border-bottom: 1px solid #CCCCCC;
+    border-left: 1px solid #CCCCCC;
+    border-right: 1px solid #CCCCCC;
+    padding-top:0.5em;
+}
+
+.zywxapp_success{
+    background-color: #FFFFE0;
+    border-color: #E6DB55;
+}
+#zywxapp_posts_progress_bar_container{
+    border: 1px solid #0000FF;
+    background-color: #C0C0FF;
+    position: relative;
+    width: 300px;
+    height: 30px;
+}
+#zywxapp_posts_progress_bar_container .progress_bar{
+    background-color: #0000FF;
+    width: 0%;
+}
+.progress_bar{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+}
+.progress_indicator{
+    color: #fff;
+    font-weight: bolder;
+    text-align:center;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#zywxapp_finalize_title, #zywxapp_pages_title, #all_done{
+    display: none;
+}
+#just_a_moment{
+    background: url(@@@ZYWXAPP_IMAGES@@@/processingJustAmoment.png) no-repeat top center;
+    width: 262px;
+    margin: 50px auto 17px;
+    height: 32px;
+}
+
+#zywx_icon_processing{
+    background: url(@@@ZYWXAPP_IMAGES@@@/zywxapp_processing_icon.png) no-repeat top center;
+    width: 135px;
+    height: 93px;
+}
+
+#zywx_icon_wrapper{
+    margin: 52px auto 29px;
+    position: relative;
+    height:  93px;
+    width: 235px;
+}
+
+#current_progress_label{
+    position: absolute;
+    top: 40px;
+    right: 4px;
+}
+
+.text_label{
+    color: #0ca0f5;
+    font-weight: bold;
+    text-align: center;
+    font-size: 14px;
+    margin: 15px 0 9px;
+}
+#main_progress_bar_container{
+    width: 260px;
+    height: 12px;
+    position: relative;
+    margin: 0px auto;
+}
+#main_progress_bar_bg{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background: url(@@@ZYWXAPP_IMAGES@@@/progress_bar_bg.png) no-repeat;
+    z-index: 2;
+}
+#main_progress_bar{
+    z-index: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    background-color: #0ca0f5;
+}
+
+#current_progress_indicator{
+    font-size: 17px;
+    margin: 10px;
+}
+#zywx_be_patient{
+    margin: 15px 0px 9px 32px;
+}
+.kaiqi{
+	padding:20px;
+}
+.yulan{
+	margin-bottom:10px;
+}
+.zywxapp_promotion_preview{
+    height: 428px;
+    width: 628px;
+    z-index: 999;
+}

@@ -1,0 +1,111 @@
+/*投稿*/
+.add_post .term {padding: 2px 4px 0;}
+
+/*视频缩略图垂直居中*/
+/*#main .panel .videoplayer {*position: relative;}*/
+#main .panel .videoplayer .img_wrap {*position: absolute; *top: 50%;}
+#main .panel .videoplayer .img_wrap .tu {*position: relative; *top: -50%;}
+
+
+/*IE提示*/
+#fuckie {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 99999999;
+	background: url(ui/alpha45.png) repeat scroll 0 0 transparent;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+#fuckie .tips {
+	width: 819px;
+	height: 635px;
+	position: relative;
+	margin: 20px auto 0;
+	background: url(ui/ie/fuckie.png) no-repeat scroll 0 0 transparent;
+}
+#fuckie .tips .btn {
+	width: 57px;
+	height: 57px;
+	position: absolute;
+	top: 25px;
+	right: 26px;
+	cursor: pointer;
+}
+#ie6-warning {
+	background: url(ui/ie/warning.gif) no-repeat scroll 3px center #FFFFFFF;
+	position: absolute;
+	top: 0;
+	left: 0;
+	font-size: 12px;
+	color: #333;
+	width: 97%;
+	padding: 2px 15px 2px 23px;
+	text-align: left;
+}
+#ie6-warning a {
+	text-decoration: none;
+}
+
+
+
+
+
+/*图形美化*/
+#nav {
+	background: url(ui/ie/navbg.png) repeat-x scroll 0 0 transparent;
+	height: 55px;
+}
+#nav li:hover > a {
+	color: #FFF;
+	background: #74B129;
+}
+#nav .sub-menu {border:1px solid #74B129;top: 22px;}
+#nav li:hover .sub-menu {display: block;}
+
+
+
+
+#main .topbox a {
+	background: url(ui/ie/menu2.jpg) repeat-x scroll 0 0 transparent;
+	border: 1px solid #E9E9E9;
+	border-top: 1px solid #EEE;
+	border-bottom: 0 none;
+}
+#main .topbox a:hover,
+#main .topbox .current-menu-item a {
+	background-position: 0 -32px;
+}
+
+
+#main .topbox {
+	box-shadow: 0 1px #FFFFFF inset, 0 1px 10px rgba(0, 0, 0, 0.15);
+	border: 1px solid #ddd;
+	width: 638px\0;	/*IE8*/
+}
+#main .notice {box-shadow:0 1px 10px rgba(0, 0, 0, 0.05);}
+#main .notice,
+#main .post_nav,
+#main .panel {
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+}
+#pagination {
+	border: 1px solid #ddd;
+	width: 638px !important;
+	border-top: 0 none;
+	background: url(ui/ie/pagination.jpg) repeat-x scroll 0 0 transparent;
+}
+#links, .pagination {width: 598px;border-left: 1px solid #ddd;border-right: 1px solid #ddd; }
+
+.ticker .shortcut .sub_menu {*bottom: 32px;} /*IE7快捷链接子菜单*/
+
+
+
+/*评论*/
+.comment-form-comment textarea {
+	width: 438px\0;
+	height: 32px\0;
+}
+.comment-form-comment {*margin-top: -1px;}

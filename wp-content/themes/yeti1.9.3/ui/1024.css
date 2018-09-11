@@ -1,0 +1,48 @@
+/*主要调整*/
+#main .panel {padding: 5px 5px 15px !important;} /*内容面板10 20 20*/
+#main .panel .videobox, #main .panel .imagebox {padding: 5px;} /*内容面板盒子10*/
+#main .panel .panel_right {width: 260px;} /*主体右侧300*/
+#main, #pagination, #footer .copyright {width: 735px;} /*主体|翻页|脚部版权820 [主体减少85]*/
+#container, #nav table, #footer, #top_box .top_container {width: 990px;} /*容器|顶部导航|脚部1080*/
+
+/*跟随调整*/
+#main .topbox .all {margin-left: 5px;} /*导航第一个按钮15*/
+#main .notice {padding-top: 5px;} /*公告10*/
+#main .noticebar {margin: 0 5px;} /*公告0 20*/
+#main .panel .videobox .video_close {left: -13px;} /*关闭视频按钮-7*/
+#main .panel .infobox .content {padding: 5px;margin-bottom: 5px;} /*内容10|5*/
+#main .panel .infobox .author {margin-top: 5px;} /*作者栏15*/
+.share {margin: 5px 0} /*分享条5 0*/
+.sharelabel {padding: 8px 0 0 5px;} /*分享条细节8 0 0 10*/
+.comments_count {padding: 8px 5px 0 0;} /*评论数8 10 0 0*/
+#links {padding: 5px 5px 15px; width: 725px !important;} /*友情链接表10 20|780*/
+.pagination {padding: 5px; width: 725px !important;} /*分页导航10|780*/
+#main .panel .tags,#main .panel .pagenav2 {margin: 5px auto;} /*标签|前后篇10 auto*/
+
+/*文章页*/
+#main .topbox .titlebox {padding: 9px 10px 0;width: 715px;} /*标题栏9 20 0|780*/
+#main .panel .column_left {width: 452px;} /*左侧栏462*/
+#main .panel .column_right, #main .panel .home_column, #main .panel .infobar {width: 260px;} /*右侧栏|浏览信息条300*/
+#main .panel .column_right .richtext > * {width: 260px !important;} /*左侧栏小工具小的直接元素*/
+#main .panel .column_right .richtext iframe {width: 260px !important;} /*左侧栏小工具小的直接元素*/
+
+
+/*投稿页*/
+.add_post {margin: 5px;} /*表单0*/
+.add_post fieldset input, .add_post textarea, .add_post .box {width: 590px !important;} /*输入框|选择栏665*/
+#user-image {width: 590px !important;} /*图片676*/
+#image_url {width: 590px !important;} /*外链图片*/
+#image_url.image_url2 {width: 480px !important;} /*上传图片565*/
+.legend {width: 725px;}
+
+
+/*IE78*/
+#pagination {
+	*width: 733px !important;	/*IE7*/
+	width: 733px\0 !important;	/*IE8*/
+}
+#links, .pagination {
+	*width: 723px !important;	/*IE7*/
+	width: 723px\0 !important;	/*IE8*/
+}
+#main .topbox {width: 733px\0 !important;}

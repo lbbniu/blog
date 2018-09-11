@@ -1,0 +1,82 @@
+#container #ds-thread #ds-reset {font-family:"Microsoft Yahei",tahoma,arial,sans-serif;}
+#container #ds-thread #ds-reset * { font-size: 11px; }
+
+#container #ds-thread #ds-reset a[name] {display:none;}
+#container #ds-thread #ds-reset .ds-comments-info {display:none;}
+#container #ds-reset .ds-toolbar {display: none;}
+#container #ds-thread #ds-reset .ds-login-buttons { display:none; }
+#container #ds-thread .ds-powered-by { display:none; }
+#container #ds-thread #ds-reset .ds-paginator { display:none !important; }
+#ds-smilies-tooltip .ds-smilies-tabs li:first-child {display: none !important;}
+#container #ds-thread #ds-reset .ds-comment-body .ds-post-likes {display: none; }
+#container #ds-thread #ds-reset .ds-comment-body .ds-post-report { display: none !important; }
+#ds-notify { top: 75px !important;z-index: 100000; }
+
+#container #ds-thread #ds-reset .ds-replybox .ds-avatar {display: none;}
+#container #ds-thread #ds-reset .ds-replybox {padding: 0 !important;margin: 3px 0 0;}
+#container #ds-thread #ds-reset .ds-replybox .ds-textarea-wrapper textarea {height:16px;font-size:12px;}
+#container #ds-thread #ds-reset .ds-post-button {height:26px;width:80px;font-size:14px;}
+#container #ds-thread #ds-reset .ds-post-options {height:24px;margin-right:80px;}
+#container #ds-thread #ds-reset .ds-toolbar-buttons {top:4px;}
+#ds-smilies-tooltip {margin-top:-5px !important;}
+#container #ds-thread .ds-sync {top:-3px;white-space:nowrap;}
+#container #ds-thread .ds-sync input,
+#container #ds-thread .ds-sync label {display: none;}
+
+
+#container #ds-thread #ds-reset .ds-comments {border-bottom:0 none;}
+#container #ds-thread #ds-reset li.ds-post { border:0;overflow: inherit;margin-bottom: 8px; }
+#container #ds-thread #ds-reset .ds-comments .ds-post-placeholder {display: none;}
+#container #ds-thread #ds-reset .ds-comment-body .ds-comment-header { display: none; }
+#container #ds-thread #ds-reset .ds-post-self { padding: 0 !important;border-top: 0 none; }
+
+#container #ds-thread #ds-reset .ds-avatar, 
+#container #ds-thread #ds-reset .ds-avatar img { height: 34px !important;width: 34px !important; }
+#container #ds-reset .ds-avatar, 
+#container #ds-thread #ds-reset ul.ds-children .ds-avatar {
+    background: #FFFFFF;
+    border-radius: 5px;
+    border-color: #F1F1F1 #EFEFEF #DDDDDD #EAEAEA;
+    border-style: solid;
+    border-width: 1px;
+    padding: 2px;
+}
+#container #ds-reset .ds-avatar img {
+    border-radius: 3px;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.15);
+    vertical-align: middle !important;
+}
+
+#container #ds-reset #ds-bubble #ds-user-card .ds-avatar, 
+#container #ds-reset #ds-bubble #ds-user-card .ds-avatar img {width: 50px !important;height: 50px !important;padding: 0;border: 0;}
+#container #ds-reset #ds-bubble #ds-ctx-bubble .ds-avatar, 
+#container #ds-reset #ds-bubble #ds-ctx-bubble .ds-avatar img {width: inherit;height: inherit;padding: 0;border: 0;}
+
+
+#container #ds-thread #ds-reset .ds-post-self:after {height: 0;}
+#container #ds-thread #ds-reset .ds-comment-body {
+    border-radius: 5px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15), 0 1px 0 rgba(255, 255, 255, 0.75) inset;
+    padding: 5px 10px !important;
+    color: #555;
+    margin-left: 45px; /**/
+    min-height: 28px;
+    border: 1px solid #58BBE2;
+    background: #f5fafe;
+}
+#container #ds-thread #ds-reset .ds-comment-body p {font-size: 12px;line-height: 22px;margin: 0;}
+#container #ds-thread #ds-reset .ds-comment-body .ds-comment-context {margin:0;}
+
+
+#container #ds-thread #ds-reset .ds-comment-body .ds-comment-footer { 
+    position: absolute;
+    width: auto;
+    padding: 0;
+    border-radius: 0;
+    top: -16px;
+    left: 50px;
+    line-height: 16px;
+    height: 16px;
+    background: transparent;
+}
+#container #ds-thread #ds-reset li.ds-post {margin-top: 20px;}

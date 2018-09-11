@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AJAX Comment Pager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-11-28 14:10+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: mg12 <wuzhao.mail@gmail.com>\n"
+"Language-Team:  <wuzhao.mail@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ajax-comment-pager.php:51
+msgid "AJAX Comment Pager"
+msgstr "AJAX 评论分页"
+
+#: ajax-comment-pager.php:56
+msgid "Comment list ID"
+msgstr "评论列表 ID"
+
+#: ajax-comment-pager.php:60
+msgid "This ID come from the parent of comment element nodes."
+msgstr "这个 ID 来自评论条目的父节点."
+
+#: ajax-comment-pager.php:69
+msgid "Callback method name"
+msgstr "回调函数名"
+
+#: ajax-comment-pager.php:73
+msgid "The callback parameter of wp_list_comments method."
+msgstr "其实就是 wp_list_comment 方法的 callback 参数"
+
+#: ajax-comment-pager.php:82
+msgid "Type"
+msgstr "类型"
+
+#: ajax-comment-pager.php:85
+msgid "both"
+msgstr "全部"
+
+#: ajax-comment-pager.php:86
+msgid "comment"
+msgstr "评论"
+
+#: ajax-comment-pager.php:87
+msgid "pings"
+msgstr ""
+
+#: ajax-comment-pager.php:90
+msgid "Get different types of comments."
+msgstr "处理的评论类型"
+
+#: ajax-comment-pager.php:97
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: ajax-comment-pager.php:195
+msgid "Loading..."
+msgstr "正在加载..."
+

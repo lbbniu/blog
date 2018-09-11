@@ -1,0 +1,8 @@
+#ajax-comment-loader {
+	background:url(img/ajax-loader.gif) left no-repeat;
+	padding-left:20px;
+}
+#cp_post_id, 
+#cp_comments_id {
+	display:none;
+}
