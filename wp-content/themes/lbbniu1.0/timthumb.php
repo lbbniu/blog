@@ -22,7 +22,6 @@
 */
 #$_SERVER['DOCUMENT_ROOT'] = "/data/www/lbbniu/www/";
 define ('VERSION', '2.8.13');																		// Version of this script
-if(! defined('DEBUG_ON') ) define ('DEBUG_ON', true);
 //Load a config file if it exists. Otherwise, use the values below
 if( file_exists(dirname(__FILE__) . '/timthumb-config.php'))	require_once('timthumb-config.php');
 if(! defined('DEBUG_ON') )					define ('DEBUG_ON', false);								// Enable debug logging to web server error log (STDERR)
