@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=10,IE=9,IE=8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
-<link rel="shortcut icon" href="http://www.lbbniu.com/favicon.ico?1e4e94">
+<link rel="shortcut icon" href="//www.lbbniu.com/favicon.ico?1e4e94">
 <title><?php wp_title('-', true, 'right'); echo get_option('blogname'); if (is_home ()) echo get_option('blogdescription'); if ($paged > 1) echo '-Page ', $paged; ?></title>
 <?php
 $sr_1 = 0; $sr_2 = 0; $commenton = 0; 
