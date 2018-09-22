@@ -32,7 +32,9 @@ define('DB_CHARSET', 'utf8');
 
 /** 数据库整理类型。如不确定请勿更改 */
 define('DB_COLLATE', '');
-
+/* 强制后台和登录使用 SSL */
+define('FORCE_SSL_LOGIN', true);
+define('FORCE_SSL_ADMIN', true);
 /**#@+
  * 身份认证密钥与盐。
  *
