@@ -1,10 +1,10 @@
 <?php
 /*
 CodeColorer plugin unit tests
-http://kpumuk.info/projects/wordpress-plugins/codecolorer
+https://kpumuk.info/projects/wordpress-plugins/codecolorer
 */
 
-require_once 'PHPUnit/Framework.php';
+use PHPUnit\Framework\TestCase;
 
 /* WordPress method stubs */
 $GLOBALS['wp_options'] = array();

