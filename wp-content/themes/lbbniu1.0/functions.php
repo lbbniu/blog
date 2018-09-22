@@ -1,6 +1,6 @@
 <?php
 
-$dname = 'Yusi';
+$dname = 'LbbNiu';
 add_action( 'after_setup_theme', 'deel_setup' );
 
 #include('admin/setting.php');
