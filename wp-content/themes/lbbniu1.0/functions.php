@@ -669,7 +669,7 @@ function imageurl($img,$thumb){
         return $img.$thumb;
     }else{
         $wh = explode('.',ltrim($thumb,"_"));
-        return 'http://www.lbbniu.cn/wp-content/themes/lbbniu1.0/timthumb.php?src='.$img."&h={$wh[1]}&w={$wh[0]}&q=90&zc=1&ct=1";
+        return '//www.lbbniu.com/wp-content/themes/lbbniu1.0/timthumb.php?src='.$img."&h={$wh[1]}&w={$wh[0]}&q=90&zc=1&ct=1";
     }
 }
 function my_avatar($avatar) {
