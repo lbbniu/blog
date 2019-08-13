@@ -5,12 +5,12 @@ add_action( 'after_setup_theme', 'deel_setup' );
 
 #include('admin/setting.php');
 //define('CDN_HOST','//lbbniu.b0.upaiyun.com');
-define('CDN_HOST','');
-add_filter('stylesheet_directory_uri','z_cdn_stylesheet_directory_uri',10,3);
+//define('CDN_HOST','');
+//add_filter('stylesheet_directory_uri','z_cdn_stylesheet_directory_uri',10,3);
 function z_cdn_stylesheet_directory_uri($stylesheet_dir_uri, $stylesheet, $theme_root_uri) {
 	return str_replace(home_url(), CDN_HOST, $stylesheet_dir_uri);
 }
-add_filter('template_directory_uri','z_cdn_template_directory_uri',10,3);
+//add_filter('template_directory_uri','z_cdn_template_directory_uri',10,3);
 function z_cdn_template_directory_uri($template_dir_uri, $template, $theme_root_uri){
 	return str_replace(home_url(), CDN_HOST, $template_dir_uri);
 }
