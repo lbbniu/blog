@@ -3,8 +3,8 @@ Contributors: GamerZ
 Donate link: https://lesterchan.net/site/donation/  
 Tags: views, hits, counter, postviews  
 Requires at least: 4.0  
-Tested up to: 4.7  
-Stable tag: 1.75  
+Tested up to: 5.0  
+Stable tag: 1.76.1  
 
 Enables you to display how many times a post/page had been viewed.
 
@@ -34,6 +34,10 @@ Enables you to display how many times a post/page had been viewed.
 I spent most of my free time creating, updating, maintaining and supporting these plugins, if you really love my plugins and could spare me a couple of bucks, I will really appreciate it. If not feel free to use it without any obligations.
 
 ## Changelog
+### Version 1.76
+* NEW: Added postviews_should_count filter
+* FIXED: Change to (int) from intval() and use sanitize_key() with it.
+
 ### Version 1.75
 * NEW: Use WP_Query() for most/least viewed posts
 
@@ -93,13 +97,13 @@ N/A
 
 ### To Display Least Viewed Posts
 
-```
+~~~
 <?php if (function_exists('get_least_viewed')): ?>
 	<ul>
 		<?php get_least_viewed(); ?>
 	</ul>
 <?php endif; ?>
-```
+~~~
  
 * The first value you pass in is the post type that you want. If you want to get every post types, just use 'both'. It also supports PHP array: example `array('post', 'page')`.
 * The second value you pass in is the maximum number of post you want to get.
@@ -107,13 +111,13 @@ N/A
 
 ### To Display Most Viewed Posts
 
-```
+~~~
 <?php if (function_exists('get_most_viewed')): ?>
 	<ul>
 		<?php get_most_viewed(); ?>
 	</ul>
 <?php endif; ?>
-```
+~~~
  
 * The first value you pass in is the post type that you want. If you want to get every post types, just use 'both'. It also supports PHP array: example `array('post', 'page')`.
 * The second value you pass in is the maximum number of post you want to get.
@@ -121,13 +125,13 @@ N/A
 
 ### To Display Least Viewed Posts By Tag
 
-```
+~~~
 <?php if (function_exists('get_least_viewed_tag')): ?>
 	<ul>
 		<?php get_least_viewed_tag(); ?>
 	</ul>
 <?php endif; ?>
-```
+~~~
  
 * The first value you pass in is the tag id.
 * The second value you pass in is the post type that you want. If you want to get every post types, just use 'both'. It also supports PHP array: example `array('post', 'page')`.
@@ -136,13 +140,13 @@ N/A
 
 ### To Display Most Viewed Posts By Tag
 
-```
+~~~
 <?php if (function_exists('get_most_viewed_tag')): ?>
 	<ul>
 		<?php get_most_viewed_tag(); ?>
 	</ul>
 <?php endif; ?>
-```
+~~~
  
 * The first value you pass in is the tag id.
 * The second value you pass in is the post type that you want. If you want to get every post types, just use 'both'. It also supports PHP array: example `array('post', 'page')`.
@@ -151,13 +155,13 @@ N/A
 
 ### To Display Least Viewed Posts For A Category
 
-```
+~~~
 <?php if (function_exists('get_least_viewed_category')): ?>
 	<ul>
 		<?php get_least_viewed_category(); ?>
 	</ul>
 <?php endif; ?>
-```
+~~~
  
 * The first value you pass in is the category id.
 * The second value you pass in is the post type that you want. If you want to get every post types, just use 'both'. It also supports PHP array: example `array('post', 'page')`.
@@ -166,13 +170,13 @@ N/A
 
 ### To Display Most Viewed Posts For A Category
 
-```
+~~~
 <?php if (function_exists('get_most_viewed_category')): ?>
 	<ul>
 		<?php get_most_viewed_category(); ?>
 	</ul>
 <?php endif; ?>
-```
+~~~
  
 * The first value you pass in is the category id.
 * The second value you pass in is the post type that you want. If you want to get every post types, just use 'both'. It also supports PHP array: example `array('post', 'page')`.
@@ -189,7 +193,7 @@ Use: `<div id="postviews_lscwp"></div>` to replace `<?php if(function_exists('th
 NOTE: The id can be changed, but the div id and the ajax function must match.
 Replace the ajax query in `wp-content/plugins/wp-postviews/postviews-cache.js` with
 
-```
+~~~
 jQuery.ajax({
     type:"GET",
     url:viewsCacheL10n.admin_ajax_url,
@@ -201,6 +205,6 @@ jQuery.ajax({
         }
    }
 });
-```
+~~~
 
 Purge the cache to use the updated pages.
